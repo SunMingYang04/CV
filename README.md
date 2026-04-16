@@ -2,3 +2,4 @@
 ## CS229N是对于马腾宇老师2022版的笔记
 ## CS231_Minimal是课程小指导
 线性分类与神经网络
+https://cs231n.github.io/neural-networks-case-study/
